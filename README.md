@@ -10,7 +10,7 @@ The project plan is to hold monthly events that include workshops, problem-solvi
 
 We are excited to launch this project and hope to see a vibrant community of open-source enthusiasts emerge in Vermont. By working together, we can drive innovation and create meaningful impact through the power of open source. We invite you to join us on this journey and contribute to the Open Source Connector project.
 
-##Organization Maintainers
+## Organization Maintainers
 
 **University of Vermont**
 - Jean-Gabriel Young (Research Assistant Professor) Mathematics and Statistics at The University of Vermont, VT.
@@ -20,7 +20,7 @@ We are excited to launch this project and hope to see a vibrant community of ope
 - David Kopec (Associate Professor) Computer Science & Innovation, Division of Information Technology & Sciences at Champlain College
 - Jonathan Ferguson (Assistant Professor) Game Design and Game Production, Division of Communications and Creative Media at Champlain College
 
-##Code of Conduct:
+## Code of Conduct:
 
 The Open Source Connector is committed to providing a safe, welcoming, and inclusive environment for all participants. As such, we expect all members of our community to adhere to the following code of conduct:
 
