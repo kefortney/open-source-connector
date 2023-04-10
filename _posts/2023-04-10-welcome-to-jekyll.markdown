@@ -2,12 +2,7 @@
 layout: post
 title:  "Welcome to Open Source Connector"
 date:   2023-04-10 10:24:20 -0400
-categories: jekyll update
----
----
-layout: page
-title: About
-permalink: /about/
+categories: jekyll update blog
 ---
 Welcome to the Open Source Connector GitHub repository! This project aims to create a new forum for collaboration and knowledge sharing around open-source software development in Vermont and the surrounding region. Our goal is to support engagement between academia, industry, and government while driving real impact in the local community.
 
