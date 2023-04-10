@@ -27,6 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
+domain: kefortney.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://kefortney.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /open_source_connector/      # place folder name if the site is served in a subfolder
+
 # Build settings
 theme: minima
 plugins:
