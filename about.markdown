@@ -14,4 +14,9 @@ We are excited to launch this project and hope to see a vibrant community of ope
 -- 
 
 ## Sponsors
-We are funded by the James Jefford Grant at UVM https://www.uvm.edu/provost/james-jeffords-grants
+
+We are funded by [the James Jefford Grant at UVM](https://www.uvm.edu/provost/james-jeffords-grants).
+
+## Source code
+
+This site is being automagically generated from [https://github.com/kefortney/open-source-connector](https://github.com/kefortney/open-source-connector). PRs accepted.
