@@ -13,12 +13,12 @@ We are excited to launch this project and hope to see a vibrant community of ope
 ## Organization Maintainers
 
 **University of Vermont**
-- Jean-Gabriel Young (Research Assistant Professor) Mathematics and Statistics at The University of Vermont, VT.
 - Kendall Fortney (Program Director) - Director of  Open Source Program Office (VERSO) at UVM and organizer for the Burlington Data Scientists Meetup since 2016.
+- Jean-Gabriel Young (Assistant Professor) Mathematics and Statistics at The University of Vermont.
 
 **Champlain College**
-- David Kopec (Associate Professor) Computer Science & Innovation, Division of Information Technology & Sciences at Champlain College
-- Jonathan Ferguson (Assistant Professor) Game Design and Game Production, Division of Communications and Creative Media at Champlain College
+- David Kopec (Associate Professor) Computer Science & Innovation, Division of Information Technology & Sciences at Champlain College.
+- Jonathan Ferguson (Assistant Professor) Game Design and Game Production, Division of Communications and Creative Media at Champlain College.
 
 ## Code of Conduct:
 
