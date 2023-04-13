@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-We are a collaboration between the Unversity of Vermont and Champlain college. The meetings are organized through [VERSO] (https://verso.w3.uvm.edu), UVM's Open Source Program Office.
+We are a collaboration between the Unversity of Vermont and Champlain college. The meetings are organized through [VERSO](https://verso.w3.uvm.edu), UVM's Open Source Program Office.
 
 ## University of Vermont
 
