@@ -11,7 +11,6 @@ Open source licenses are the legal agreements that govern how open source softwa
 * Why we have licenses?
 * What are the different types of open source licenses?
 * What are the best practices for an open source practitioner?
-
 By understanding the different types of licenses and their implications, you can make informed decisions about how to use open source software in your projects.
 
 This event is open and free to everyone and we will also have PIZZA!
@@ -26,3 +25,4 @@ you can attend virtually via Zoom
 
 ### Presenter
 David Kopec is an Associate Professor @ Champlain College teaching a wide variety of computer science courses including Data Structures & Algorithms, iOS Development, Android Development, Open Source Software Development, and a programming language theory course amongst others. He is the author of the Classic Computer Science Problems book series, which includes Classic Computer Science Problems in Swift (Manning, 2018), Classic Computer Science Problems in Python (Manning, 2019) and Classic Computer Science Problems in Java (Manning, 2020).
+
