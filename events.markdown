@@ -5,7 +5,7 @@ permalink: /events/
 ---
 ## Exploring Open Source Licenses
 Wed, Sep 27, 2023 6:30pm to 8:00pm
-[Sign Up!](
+[Sign Up!](https://www.meetup.com/open-source-connector/events/295961599)
 Open source licenses are the legal agreements that govern how open source software (software that anyone can use, modify, and redistribute) can be used. In this inaugural talk for the Open Source Connector, we will discuss the basics of understanding open source licenses including:
 * What are your rights and responsibilities when you incorporate an open source library in your program?
 * Why we have licenses?
