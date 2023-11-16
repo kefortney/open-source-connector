@@ -6,6 +6,26 @@ permalink: /events/
 # Upcoming Events
 
 # Past Events
+## Code to Community: Nurturing Unity in the Open Source Ecosystem
+
+**Wednesday, November 1, 2023 at 6:30-8:00 PM E**
+
+In today's fast-changing tech scene, open source communities are like bustling hubs where folks come together to create, learn, and work as a team. But making these communities work isn't just about tech know-how; it's about understanding people, too. In our discussion, we'll dive into how to grow and support these communities so they're welcoming, effective, and built to last with experience learned in the open source ecosystem in Africa.
+
+This event is open and free to everyone and we will also have PIZZA!
+
+### Location
+
+Innovation Hall, Room E100
+University of Vermont, 82 University Pl, Burlington, VT 05405
+(parking is free on campus after 6, we recommend parking at the Peirce-Spaulding House Parking Lot)
+OR
+you can attend virtually via Zoom
+
+### Presenter
+Samson Goddy is a seasoned open source program manager and developer relations (DevRel) professional with over a decade of experience in the field. He's significantly involved in community building and advocacy within the open source sphere. As a software engineer and open source advocate, he co-founded Open Source Community Africa, an initiative to foster and support the open source movement in Africa.
+
+
 ## Exploring Open Source Licenses
 
 **Wed, Sep 27, 2023 6:30pm to 8:00pm**
