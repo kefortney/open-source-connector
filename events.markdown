@@ -3,9 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 ---
-# Upcoming Events
-
-# Past Events
+# Events
 ## Code to Community: Nurturing Unity in the Open Source Ecosystem
 
 **Wednesday, November 1, 2023 at 6:30-8:00 PM E**
