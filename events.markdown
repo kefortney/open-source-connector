@@ -8,6 +8,7 @@ permalink: /events/
 
 **Wednesday, November 1, 2023 at 6:30-8:00 PM E**
 
+[View on YouTube](https://youtu.be/GCVu76eQmWc)
 In today's fast-changing tech scene, open source communities are like bustling hubs where folks come together to create, learn, and work as a team. But making these communities work isn't just about tech know-how; it's about understanding people, too. In our discussion, we'll dive into how to grow and support these communities so they're welcoming, effective, and built to last with experience learned in the open source ecosystem in Africa.
 
 This event is open and free to everyone and we will also have PIZZA!
@@ -28,7 +29,7 @@ Samson Goddy is a seasoned open source program manager and developer relations (
 
 **Wed, Sep 27, 2023 6:30pm to 8:00pm**
 
-[VIEW RECORDING]([https://www.meetup.com/open-source-connector/events/295961599](https://youtu.be/rtS8tUccATI?si=FosJCAb4shoXLLrV))
+[View on YouTube](https://youtu.be/rtS8tUccATI?si=FosJCAb4shoXLLrV)
 
 Open source licenses are the legal agreements that govern how open source software (software that anyone can use, modify, and redistribute) can be used. In this inaugural talk for the Open Source Connector, we will discuss the basics of understanding open source licenses including:
 * What are your rights and responsibilities when you incorporate an open source library in your program?
