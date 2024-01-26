@@ -4,6 +4,25 @@ title: Events
 permalink: /events/
 ---
 # Events
+
+## Chapel and Open Productive Parallel Computing at Scale
+
+**Wednesday, February 7, 2024 at 6:30-8:00 PM E**
+In this talk, Michael Ferguson compares the performance of sorting implementations in different languages and explore Chapel, the programming language with the fastest standard library sort. By effectively using the parallel hardware, Chapel’s sort is 10 times faster than any other standard library sort measured on the benchmark system, and about 200 times faster than sorting with Python. Bring along a computer with a Linux or Mac environment to enable experimenting with Chapel.
+
+Chapel is designed to make parallel computing easier and it enables programs to scale from laptops to supercomputers. Users of Chapel are reaping its benefits in practical, cutting-edge applications in many domains including data science, image analysis, and physical simulation. Additionally, Chapel has recently started to provide a vendor-neutral way to program GPUs. It’s open source and available at https://github.com/chapel-lang/chapel/ . More information is available on the https://chapel-lang.org/ website
+
+This event is open and free to everyone and we will also have PIZZA!
+
+### Location
+Center for Communication and Creative Media, Room 221
+375 Maple St, Burlington, VT 05401
+Or
+a Zoom Link will be put in the comments on the day off the event
+
+### Presenter
+Michael Ferguson is a principal software engineer at HPE within the Chapel team. He focuses primarily on improving the Chapel language and its compiler, and he has worked in many areas of the Chapel project; from LLVM-based code generation to I/O support. He's currently the technical leader of an effort to dramatically improve the compiler, including making it more interactive and reducing compile times. He has taught several multi-day Chapel tutorials and has presented work on Chapel at conferences.
+
 ## Code to Community: Nurturing Unity in the Open Source Ecosystem
 
 **Wednesday, November 1, 2023 at 6:30-8:00 PM E**
